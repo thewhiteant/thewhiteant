@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Whiteant
 - 👀 I'm interested in Complex things
-- 🌱 I’m currently learning Flask
-- 💞️ i am Looking for crazy developer
+- 🌱 I’m currently learning Disocrd Complexity
 - 🇩 🇮 🇸 🇨 🇴 🇷 🇩 :https://discord.gg/32rGZFTFEk
 - 🇫 🇦 🇨 🇪 🇧 🇴 🇴 🇰 :https://www.facebook.com/RedAnt5555/
 <!---

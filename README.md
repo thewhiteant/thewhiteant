@@ -25,7 +25,7 @@ Python, Flask, Tkinter, Django, PHP, Javascript, HTML, CSS...
 
 Studying in B.Sc. in computer Science and Engineering
 
-#### **Your Age?**
+#### **About Me**
+Simple Person With Complex Mindset
 
-22 year
 

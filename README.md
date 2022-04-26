@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Whiteant
 - 👀 I'm interested in Complex things
-- 🌱 I’m currently learning WEBAPPs 
+- 🌱 I’m currently learning CPP
 - 🇩 https://discord.gg/sFa9HHpU9z
 - 🇫 https://www.facebook.com/RedAnt5555/
 - 🌐 My Web [PC_version] Basic http://whiteant.42web.io/

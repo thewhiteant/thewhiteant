@@ -15,7 +15,7 @@ I'm a intermediate python developer...
 
 
 ## 🛠 Skills
-Python, Flask, Tkinter, Django, PHP, Javascript, HTML, CSS...
+  Basic c++, java, Swing , python , flask , tkinter
 
 
 ## FAQ

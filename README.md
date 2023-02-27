@@ -4,7 +4,6 @@
 - 👋 Hi, I’m Whiteant
 - 👀 I'm interested in Complex things
 - 🌱 I’m currently learning CPP
-- 🇫 https://www.facebook.com/DarkAnT808/
 - 🌐 My Web [PC_version] Basic http://whiteant.42web.io/
 - 🌐 My Web [PC_version] Flask https://whiteant.whiteant.repl.co/
 

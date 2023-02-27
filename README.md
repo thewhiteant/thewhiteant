@@ -18,7 +18,7 @@
 
 
 ## FAQ
-  NOTIME
+  Sorry
 #### **Educational Qualifications?**
 
 Studying in B.Sc. in computer Science and Engineering RPSU

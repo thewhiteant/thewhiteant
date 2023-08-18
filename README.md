@@ -3,25 +3,10 @@
 
 - 👋 Hi, MUI Whiteant
 - 👀 I'm interested in Complex things
-- 🌱 I’m currently learning And Working on my dream project [2/27/2023]
+- 🌱 I’m currently learning Nothing
 - 🌐  Basic http://whiteant.42web.io/
-- 🌐  Flask https://whiteant.whiteant.repl.co/
 
 
-
-## 🚀 About Me
-  You are welcome
-
-
-## 🛠 Skills
-  https://github.com/thewhiteant?tab=repositories
-
-
-## FAQ
-  Sorry
-#### **Educational Qualifications?**
-
-Studying in B.Sc. in computer Science and Engineering RPSU
 
 #### **About Me**
 Simple Person With Complex Mindset

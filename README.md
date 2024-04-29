@@ -3,7 +3,7 @@
 
 - 👋 Hi, MUI Whiteant
 - 👀 I'm interested in Complex things
-- 🌱 I’m currently learning Nothing
+- 🌱 I’m currently learning Competitive Programming
 - 🌐  Basic http://whiteant.42web.io/
 
 

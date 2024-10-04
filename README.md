@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Rafi</h1>
+<h3 align="center">A Simple Person With A Complex Mindset</h3>
+
 # 💫 About Me:
 🔭 **I’m currently working on:**  <br>- Research in Cryptography  <br>- Research Portal Software (Native App + Web)  <br>- Open Free Book Upload Platform  <br><br>👯 **I’m looking to collaborate on:**  <br>- Python Projects  <br>- Backend Development  <br><br>🌱 **I’m currently learning:**  <br>- Machine Learning  <br>- React.js (Native + Web)  <br>- Competitive Programming through Practice  <br><br>💬 **Ask me about:**  <br>- Myself  <br>- Cryptography  <br>- Project Planning  <br><br>⚡ **Fun fact:**  <br>I want to be the "Rabindranath of Computer Science."<br>
 
